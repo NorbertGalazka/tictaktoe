@@ -1,4 +1,8 @@
-import sys, pyinputplus,random,time,os
+import sys
+import pyinputplus
+import random
+import time
+import os
 
 
 win_dict = {}
